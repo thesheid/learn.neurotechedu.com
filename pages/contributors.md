@@ -79,6 +79,26 @@ Contributed to
 
 </div>
 
+##### Sheida Rabipour
+
+Roles
+
+* Mentor
+* Editor
+
+Contributed to
+
+* Intro to BCI
+* Signal Preprocessing
+
+<a href="https://www.researchgate.net/profile/Sheida_Rabipour"></a>
+<a href="https://www.linkedin.com/in/sheidarabipour/" class="icon-linkedin"></a>
+
+</div>
+
+
+<div class="medium-4 columns contributor" markdown="1">
+
 
 
 {% include _improve_content.html %}
